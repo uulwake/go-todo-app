@@ -1,0 +1,17 @@
+# web-react
+/web-react/node_modules
+/web-react/.pnp
+/web-react/.pnp.js
+/web-react/coverage
+/web-react/build
+/web-react/.DS_Store
+/web-react/.env.local
+/web-react/.env.development.local
+/web-react/.env.test.local
+/web-react/.env.production.local
+/web-react/npm-debug.log*
+/web-react/yarn-debug.log*
+/web-react/yarn-error.log*
+
+# api-go
+/api-go/app
