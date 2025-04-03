@@ -42,4 +42,4 @@ npm run start
 
 # Demo
 
-![](demo.mp4)
+![](https://github.com/uulwake/go-todo-app/blob/main/demo.mp4)
