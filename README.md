@@ -42,4 +42,4 @@ npm run start
 
 # Demo
 
-![Demo](https://github.com/uulwake/go-todo-app/blob/main/demo.mp4)
+![Demo](https://github.com/user-attachments/assets/4df58b12-7542-4ccb-9eaa-c9fa30b75ee9)
